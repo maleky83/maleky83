@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 سلام، من محمدحسینم
 
-<!--
-**maleky83/maleky83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 در مسیر یادگیری Node.js و JavaScript
+- 📚 عاشق توسعه فردی و برنامه‌نویسی بک‌اند
+- 💼 در حال ساختن رزومه و نمونه‌کار برای بازار کار
+- ❤️ هدفم: افتخار و آرامش برای پدر و مادرم
 
-Here are some ideas to get you started:
+## 🛠️ مهارت‌ها
+- HTML, CSS
+- JavaScript, Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 پروژه‌های من
+- [ماشین حساب ساده](https://maleky83.github.io/simple-js-calculator/)
+- پروژه‌های بیشتر به‌زودی...
+
+## 💬 در تماس باشیم
+- 📍 کرج
+- 📧 ایمیل: [ایمیل‌تو بذار اینجا یا خالی بذارم]
