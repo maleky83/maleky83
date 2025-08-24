@@ -9,7 +9,6 @@
 🛠️ مهارت‌ها
 
 **Frontend**\
-
 HTML, CSS, Bootstrap , TailwindCss
 
 JavaScript (ES6+)
