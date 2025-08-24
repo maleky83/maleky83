@@ -53,7 +53,7 @@ Git & GitHub
 
 ## 📬 تماس با من
 
-سایت شخصی : (https://maleky83.github.io/resume/)[رزومه]
+سایت شخصی : [رزومه](https://maleky83.github.io/resume/)
 
 📧 ایمیل: mmmohammmadhosein1383@gmail.com
 
