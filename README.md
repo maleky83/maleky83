@@ -8,33 +8,34 @@
 
 🛠️ مهارت‌ها
 
-Frontend
+**Frontend**\
 
 HTML, CSS, Bootstrap , TailwindCss
 
 JavaScript (ES6+)
 
-Backend
+**Backend**\
 Node.js
 Express.js
 TypeScript
 RESTful API (CRUD)
 
-Database
+**Database**\
 MongoDB, Mongoose
 
-Tools
+**Tools**\
 Git & GitHub
+------------------------------------------------------------------------
+## 🚀 پروژه‌ها
 
-🚀 پروژه‌ها
-🧮 ماشین حساب ساده
+### 🧮 ماشین حساب ساده
 
 یک ماشین‌حساب تحت وب با HTML, CSS و JavaScript برای تمرین مفاهیم DOM و رویدادها.
 
 🔗 [مشاهده پروژه](https://maleky83.github.io/calculator/)
 
 
-✅ To-Do List
+### ✅ To-Do List
 
 لیست کارها با رابط کاربری ساده با HTML/CSS/JavaScript/NodeJs.
 
@@ -43,7 +44,7 @@ Git & GitHub
     
 
 
-👨‍💻 سیستم مدیریت کاربران
+### 👨‍💻 سیستم مدیریت کاربران
 
 مدیریت کاربران (CRUD) با Node.js, Express.js و MongoDB.
 شامل ثبت، ویرایش، حذف و مشاهده کاربر.
@@ -51,7 +52,7 @@ Git & GitHub
 
 
 
-📬 تماس با من
+## 📬 تماس با من
 
 📧 ایمیل: mmmohammmadhosein1383@gmail.com
 
