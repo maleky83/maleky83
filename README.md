@@ -37,7 +37,9 @@ Git & GitHub
 ✅ To-Do List
 
 لیست کارها با رابط کاربری ساده با HTML/CSS/JavaScript/NodeJs.
+
 ذخیره‌سازی داده در JSON (localStorage)
+
     🔗 [مشاهده پروژه](https://maleky83.github.io/todo-app/)
     
 
@@ -47,6 +49,7 @@ Git & GitHub
 مدیریت کاربران (CRUD) با Node.js, Express.js و MongoDB.
 شامل ثبت، ویرایش، حذف و مشاهده کاربر.
     🔗 [مشاهده پروژه](https://maleky83.github.io/controllerUsers/)
+
 
 
 📬 تماس با من
