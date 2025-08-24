@@ -39,7 +39,6 @@ Git & GitHub
 لیست کارها با رابط کاربری ساده با HTML/CSS/JavaScript/NodeJs.
 
 ذخیره‌سازی داده در JSON (localStorage)
-
     🔗 [مشاهده پروژه](https://maleky83.github.io/todo-app/)
     
 
