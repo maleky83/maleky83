@@ -48,6 +48,6 @@ Git & GitHub
 
 📧 ایمیل: mmmohammmadhosein1383@gmail.com
 
-🐙 گیت‌هاب: github.com/maleky83
+🐙 گیت‌هاب: [github.com/maleky83](https://github.com/maleky83)\
 
-🔗 لینکدین:linkedin.com/in/maleky83
+🔗 لینکدین[linkedin.com/in/maleky83](https://www.linkedin.com/in/maleky83/)\
