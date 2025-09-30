@@ -5,22 +5,28 @@
 
 ## 🛠️ مهارت‌ها
 
-**Frontend**\
-HTML, CSS, Bootstrap , TailwindCss
 
-JavaScript (ES6+)
+
+**Frontend**\
+HTML, CSS 80%
+Bootstrap , TailwindCss 50%
+
+
+JavaScript (ES6+) 80%
+
+wordpress 70%
 
 **Backend**\
-Node.js
+Node.js 70%
 Express.js
-TypeScript
-RESTful API (CRUD)
+TypeScript 50%
+RESTful API (CRUD) 60%
 
 **Database**\
-MongoDB, Mongoose
+MongoDB, Mongoose 50%
 
 **Tools**\
-Git & GitHub
+Git & GitHub 50%
 
 ## 🚀 پروژه‌ها
 
