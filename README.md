@@ -6,11 +6,11 @@
 ## 🛠️ مهارت‌ها
 
 
-
+**JavaScript 80%**/
+**Wordpress 70%**/
 **Frontend**\
 HTML, CSS 80% \
 Bootstrap 50% \
-JavaScript (ES6+) 80%
 
 **Backend**\
 Node.js 70%\
@@ -23,8 +23,6 @@ MongoDB 50%
 
 **Tools**\
 Git & GitHub 50%/
-
-wordpress 70%
 
 ## 🚀 پروژه‌ها
 
