@@ -17,9 +17,9 @@ JavaScript (ES6+) 80%
 wordpress 70%
 
 **Backend**\
-Node.js 70%
-Express.js
-TypeScript 50%
+Node.js 70%\
+Express.js\
+TypeScript 50%\
 RESTful API (CRUD) 60%
 
 **Database**\
