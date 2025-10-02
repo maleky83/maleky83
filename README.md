@@ -9,12 +9,8 @@
 
 **Frontend**\
 HTML, CSS 80% \
-Bootstrap 50%
-
-
+Bootstrap 50% \
 JavaScript (ES6+) 80%
-
-wordpress 70%
 
 **Backend**\
 Node.js 70%\
@@ -23,10 +19,12 @@ TypeScript 50%\
 RESTful API (CRUD) 60%
 
 **Database**\
-MongoDB, Mongoose 50%
+MongoDB 50%
 
 **Tools**\
-Git & GitHub 50%
+Git & GitHub 50%/
+
+wordpress 70%
 
 ## 🚀 پروژه‌ها
 
