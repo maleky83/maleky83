@@ -8,20 +8,20 @@
 
 **JavaScript 80%**\
 **Wordpress 70%**\
-**Frontend**\
+**Frontend:**\
 HTML, CSS 80% \
 Bootstrap 50% \
 
-**Backend**\
+**Backend:**\
 Node.js 70%\
 Express.js\
 TypeScript 50%\
 RESTful API (CRUD) 60%
 
-**Database**\
+**Database:**\
 MongoDB 50%
 
-**Tools**\
+**Tools:**\
 Git & GitHub 50%/
 
 ## 🚀 پروژه‌ها
