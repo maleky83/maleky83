@@ -6,8 +6,8 @@
 ## 🛠️ مهارت‌ها
 
 
-**JavaScript 80%**/
-**Wordpress 70%**/
+** JavaScript 80% **/
+** Wordpress 70% **/
 **Frontend**\
 HTML, CSS 80% \
 Bootstrap 50% \
