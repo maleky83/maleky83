@@ -8,8 +8,8 @@
 
 
 **Frontend**\
-HTML, CSS 80%
-Bootstrap , TailwindCss 50%
+HTML, CSS 80% \
+Bootstrap 50%
 
 
 JavaScript (ES6+) 80%
