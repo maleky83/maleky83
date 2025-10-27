@@ -8,7 +8,7 @@
 **JavaScript 80%**\
 **Wordpress 70%**\
 **Frontend:**\
-HTML, CSS , Bootstrap 80% \
+HTML, CSS , Bootstrap 80%
 
 **Backend:**\
 Node.js 70%\
