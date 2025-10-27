@@ -5,24 +5,23 @@
 ## 🛠️ مهارت‌ها
 
 
-**JavaScript 80%**\
+**JavaScript 80%**
 
-**Frontend:**\
+**Frontend:**
 HTML, CSS , Bootstrap 80%
 
 **Backend:**\
-Node.js 70%\
-Express.js\
-TypeScript 50%\
+Node.js , Express.js 70%\
+TypeScript 40%\
 RESTful API (CRUD) 60%
 
 **Database:**\
 MongoDB 50%
 
 **Tools:**\
-Git & GitHub 50%
+Git & GitHub 65%
 
-**Wordpress 70%**\
+**Wordpress , Elementor 70%**\
 ## 🚀 پروژه‌ها
 
 ### 🧮 ماشین حساب ساده
