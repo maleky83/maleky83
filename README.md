@@ -34,7 +34,7 @@ Git & GitHub 65%
 
 
 
-### ✅ To-Do List
+### ✅ لیست To-Do List
 
 لیست کارها با رابط کاربری ساده با HTML/CSS/JavaScript/NodeJs.
 
