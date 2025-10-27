@@ -6,7 +6,7 @@
 
 
 **JavaScript 80%**\
-**Wordpress 70%**\
+
 **Frontend:**\
 HTML, CSS , Bootstrap 80%
 
@@ -20,8 +20,9 @@ RESTful API (CRUD) 60%
 MongoDB 50%
 
 **Tools:**\
-Git & GitHub 50%/
+Git & GitHub 50%
 
+**Wordpress 70%**\
 ## 🚀 پروژه‌ها
 
 ### 🧮 ماشین حساب ساده
