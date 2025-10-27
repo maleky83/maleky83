@@ -62,7 +62,7 @@ Git & GitHub 65%
 
 ## 📬 تماس با من
 
-سایت شخصی : [رزومه]((https://maleky83.github.io/maleky83/))
+سایت شخصی : [رزومه](https://maleky83.github.io/maleky83/)
 
 📧 ایمیل: mmmohammmadhosein1383@gmail.com
 
