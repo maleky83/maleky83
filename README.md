@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering (Software) student and an ASP.NET Core Backend Developer passionate about building web applications with C#, Entity Framework Core, and SQL Server.
-
-I'm continuously improving my skills by developing real-world projects and learning modern .NET technologies.
+I'm a Computer Engineering (Software) student and an ASP.NET Core backend developer. I build web applications using C#, Entity Framework Core, and SQL Server.
 
 ---
 
