@@ -1,33 +1,58 @@
-# 📌 رزومه محمدحسین ملکی
+# Hi, I'm MohammadHossein Maleki 👋
 
-## 👨‍💻 درباره من
-محمدحسین ملکی – برنامه نویس پایتون و بک اند پایتون | دانشجوی کارشناسی کامپیوتر (نرم‌افزار) | علاقه‌مند به کار تیمی 
-## 🛠️ مهارت‌ها
+## 💻 About Me
 
+I'm a Computer Engineering (Software) student and an ASP.NET Core Backend Developer passionate about building web applications with C#, Entity Framework Core, and SQL Server.
 
-**Python 50%**
+I'm continuously improving my skills by developing real-world projects and learning modern .NET technologies.
 
-**Frontend:**
-HTML, CSS , Bootstrap 80%
+---
 
-**Backend:**\
-Django 70%\
-djagno_rest_framework (drf) 60%\
+## 🛠️ Tech Stack
 
-**Database:**\
-MongoDB 50%
+### Languages
+- C#
 
-**Tools:**\
-Git & GitHub 65%
+### Backend
+- ASP.NET Core
+- Razor Pages
+- Entity Framework Core
+- ASP.NET Core Identity
 
+### Frontend
+- HTML
+- CSS
+- Bootstrap
 
+### Database
+- SQL Server
 
-## 📬 تماس با من
+### Tools
+- Git
+- GitHub
+- Visual Studio
 
-سایت شخصی : [رزومه](https://maleky83.github.io/maleky83/)
+---
 
-📧 ایمیل: mmmohammmadhosein1383@gmail.com
+## 🌱 Currently Learning
 
-🐙 گیت‌هاب: [github.com/maleky83](https://github.com/maleky83)\
+- ASP.NET Core 10
+- Clean Architecture
+- Design Patterns
+- RESTful API Development
 
-🔗 لینکدین[linkedin.com/in/maleky83](https://www.linkedin.com/in/maleky83/)\
+---
+
+## 📫 Contact
+
+🌐 Portfolio  
+https://maleky83.github.io/maleky83/
+
+📧 Email  
+mmmohammmadhosein1383@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/maleky83/
+
+🐙 GitHub  
+https://github.com/maleky83
