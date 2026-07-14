@@ -7,24 +7,25 @@ I'm a C# / ASP.NET Core Backend Developer and Computer Engineering student.
 I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
 
 ---
+## Featured Projects
 
+- [Shop-Management-System](https://github.com/maleky83/Shop-Management-System)  
+  ASP.NET Core application using Entity Framework Core and SQL Server.
+  
 ## Skills
 
 * C#
 
 * ASP.NET Core
-* MVC
-* Razor Pages
-* Entity Framework Core
+* MVC & Razor Pages 
+* Entity Framework Core & Linq
 * ASP.NET Core Identity
 * RESTful API Development
-
-* HTML , CSS , Bootstrap 
-
 * SQL Server
 
 * Git
 * GitHub
+* HTML , CSS , Bootstrap 
 
 ---
 
