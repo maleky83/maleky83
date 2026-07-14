@@ -51,7 +51,7 @@ I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Co
 
 ## Resume
 
-📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/maleky83/maleky83/main/MohammadHossein_Maleki_Resume.pdf)
+📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/maleky83/maleky83/main/mohammadhossein-maleki-resume.pdf)
 
 ---
 
