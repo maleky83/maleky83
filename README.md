@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering (Software) student and an ASP.NET Core Backend Developer.
+I'm a C# / ASP.NET Core Backend Developer and Computer Engineering student.
 
 I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
 
