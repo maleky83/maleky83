@@ -5,34 +5,50 @@
 ASP.NET Core Backend Developer and Computer Engineering student focused on building clean and maintainable web applications using C#, .NET, Entity Framework Core, and SQL Server.
 
 ---
+
 ## Featured Projects
 
-- [Shop-Management-System](https://github.com/maleky83/Shop-Management-System)  
-  A web-based management system built with ASP.NET Core MVC, Entity Framework Core, and SQL Server, focusing on CRUD operations, authentication, and database-driven development.
-  
+### 🛒 Shop-Management-System
+
+A web-based management system built with ASP.NET Core MVC, Entity Framework Core, and SQL Server, focusing on CRUD operations, authentication, and database-driven development.
+
+🔗 Repository:
+https://github.com/maleky83/Shop-Management-System
+
+---
+
 ## Skills
 
-* C#
+### Backend Development
+- C#
+- ASP.NET Core
+- MVC & Razor Pages
+- Entity Framework Core
+- LINQ
+- ASP.NET Core Identity
+- RESTful API Development
 
-* ASP.NET Core
-* MVC & Razor Pages 
-* Entity Framework Core & Linq
-* ASP.NET Core Identity
-* RESTful API Development
-* SQL Server
+### Database
+- SQL Server
 
-* Git
-* GitHub
-* HTML , CSS , Bootstrap 
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
 
 ---
 
 ## Currently Learning
 
-* ASP.NET Core 10
-* Clean Architecture
-* Design Patterns
-* Advanced Backend Development
+- ASP.NET Core 10
+- Clean Architecture
+- Design Patterns
+- Backend Engineering Practices
 
 ---
 
@@ -44,11 +60,11 @@ ASP.NET Core Backend Developer and Computer Engineering student focused on build
 
 ## Contact
 
-📧 Email
-[mmmohammmadhosein1383@gmail.com](mailto:mmmohammmadhosein1383@gmail.com)
+📧 Email  
+mmmohammmadhosein1383@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn  
 https://www.linkedin.com/in/maleky83/
 
-💻 GitHub
+💻 GitHub  
 https://github.com/maleky83
