@@ -10,7 +10,7 @@ I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Co
 ## Featured Projects
 
 - [Shop-Management-System](https://github.com/maleky83/Shop-Management-System)  
-  ASP.NET Core application using Entity Framework Core and SQL Server.
+  A web-based management system built with ASP.NET Core MVC, Entity Framework Core, and SQL Server, focusing on CRUD operations, authentication, and database-driven development.
   
 ## Skills
 
