@@ -10,33 +10,21 @@ I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Co
 
 ## Skills
 
-### Programming Languages
-
 * C#
 
-### Backend Development
-
 * ASP.NET Core
+* MVC
 * Razor Pages
 * Entity Framework Core
 * ASP.NET Core Identity
 * RESTful API Development
 
-### Frontend
-
-* HTML
-* CSS
-* Bootstrap
-
-### Database
+* HTML , CSS , Bootstrap 
 
 * SQL Server
 
-### Tools & Technologies
-
 * Git
 * GitHub
-* Visual Studio
 
 ---
 
