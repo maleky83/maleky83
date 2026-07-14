@@ -1,54 +1,67 @@
-# Hi, I'm MohammadHossein Maleki
+# Hi, I'm MohammadHossein Maleki 👋
 
-## About Me 
+## About Me
 
-I'm a Computer Engineering (Software) student and an ASP.NET Core backend developer. I build web applications using C#, Entity Framework Core, and SQL Server.
+I'm a Computer Engineering (Software) student and an ASP.NET Core Backend Developer.
+
+I develop web applications using **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
 
 ---
 
-### Languages
-- C#
+## Skills
 
-### Backend
-- ASP.NET Core
-- Razor Pages
-- Entity Framework Core
-- ASP.NET Core Identity
+### Programming Languages
+
+* C#
+
+### Backend Development
+
+* ASP.NET Core
+* Razor Pages
+* Entity Framework Core
+* ASP.NET Core Identity
+* RESTful API Development
 
 ### Frontend
-- HTML
-- CSS
-- Bootstrap
+
+* HTML
+* CSS
+* Bootstrap
 
 ### Database
-- SQL Server
 
-### Tools
-- Git
-- GitHub
-- Visual Studio
+* SQL Server
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Visual Studio
 
 ---
 
 ## Currently Learning
 
-- ASP.NET Core 10
-- Clean Architecture
-- Design Patterns
-- RESTful API Development
+* ASP.NET Core 10
+* Clean Architecture
+* Design Patterns
+* Advanced Backend Development
+
+---
+
+## Resume
+
+📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/maleky83/maleky83/main/MohammadHosein_Maleki_Resume.pdf)
 
 ---
 
 ## Contact
 
-Portfolio  
-https://maleky83.github.io/maleky83/
+📧 Email
+[mmmohammmadhosein1383@gmail.com](mailto:mmmohammmadhosein1383@gmail.com)
 
-Email  
-mmmohammmadhosein1383@gmail.com
-
-LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/maleky83/
 
-GitHub  
+💻 GitHub
 https://github.com/maleky83
