@@ -3,6 +3,7 @@
 ## About Me
 
 Backend Developer | C# | ASP.NET Core | EF Core | SQL Server 
+---
 Computer Engineering student
 
 ---
