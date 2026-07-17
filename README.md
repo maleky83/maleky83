@@ -2,7 +2,7 @@
 
 ## About Me
 
-ASP.NET Core Backend Developer and Computer Engineering student focused on building clean and maintainable web applications using C#, .NET, Entity Framework Core, and SQL Server.
+Backend Developer | C# | ASP.NET Core | EF Core | SQL Server and Computer Engineering student
 
 ---
 
