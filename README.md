@@ -2,15 +2,25 @@
 
 ## About Me
 
-Computer Engineering student | Backend Developer | C# | ASP.NET Core | EF Core | SQL Server  
+Computer Engineering student | Backend Developer | C# | ASP.NET Core | Entity Framework Core | SQL Server
 
 ---
 
 ## Featured Projects
 
-### 🛒 Shop-Management-System
+### 🛒 Shop Management System
 
-A web-based management system built with ASP.NET Core MVC, Entity Framework Core, and SQL Server, focusing on CRUD operations, authentication, and database-driven development.
+A shop management system developed with ASP.NET Core using RESTful Web API architecture.
+
+Features:
+
+* JWT Authentication and Authorization
+* ASP.NET Core Identity
+* Product, Category, Group, and Order Management
+* Layered Architecture (API, Core, Data Layer)
+* Entity Framework Core with Fluent API
+* Swagger API Documentation
+* Razor Pages Admin Panel
 
 🔗 Repository:
 https://github.com/maleky83/Shop-Management-System
@@ -20,35 +30,49 @@ https://github.com/maleky83/Shop-Management-System
 ## Skills
 
 ### Backend Development
-- C#
-- ASP.NET Core
-- MVC & Razor Pages
-- Entity Framework Core
-- LINQ
-- ASP.NET Core Identity
-- RESTful API Development
+
+* C#
+* ASP.NET Core
+* Web API
+* MVC & Razor Pages
+* Entity Framework Core
+* LINQ
+* ASP.NET Core Identity
+* JWT Authentication
+* RESTful API Development
 
 ### Database
-- SQL Server
+
+* SQL Server
+
+### Architecture & Concepts
+
+* Layered Architecture
+* Dependency Injection
+* DTOs
+* Clean Architecture (Learning)
+* Design Patterns (Learning)
 
 ### Frontend
-- HTML
-- CSS
-- Bootstrap
+
+* HTML
+* CSS
+* Bootstrap
 
 ### Tools
-- Git
-- GitHub
-- Visual Studio
+
+* Git
+* GitHub
+* Visual Studio
 
 ---
 
 ## Currently Learning
 
-- ASP.NET Core 10
-- Clean Architecture
-- Design Patterns
-- Backend Engineering Practices
+* ASP.NET Core
+* Clean Architecture
+* Design Patterns
+* Backend Development Practices
 
 ---
 
@@ -60,11 +84,11 @@ https://github.com/maleky83/Shop-Management-System
 
 ## Contact
 
-📧 Email  
-mmmohammmadhosein1383@gmail.com
+📧 Email
+[mmmohammmadhosein1383@gmail.com](mailto:mmmohammmadhosein1383@gmail.com)
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/maleky83/
 
-💻 GitHub  
+💻 GitHub
 https://github.com/maleky83
