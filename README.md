@@ -2,30 +2,7 @@
 
 ## About Me
 
-Computer Engineering student | Backend Developer | C# | ASP.NET Core | Entity Framework Core | SQL Server
-
----
-
-## Featured Projects
-
-### 🛒 Shop Management System
-
-A shop management system developed with ASP.NET Core using RESTful Web API architecture.
-
-Features:
-
-* JWT Authentication and Authorization
-* ASP.NET Core Identity
-* Product, Category, Group, and Order Management
-* Layered Architecture (API, Core, Data Layer)
-* Entity Framework Core with Fluent API
-* Swagger API Documentation
-* Razor Pages Admin Panel
-
-🔗 Repository:
-https://github.com/maleky83/Shop-Management-System
-
----
+Computer Engineering student | Backend Developer | C# | ASP.NET Core 
 
 ## Skills
 
@@ -34,12 +11,15 @@ https://github.com/maleky83/Shop-Management-System
 * C#
 * ASP.NET Core
 * Web API
+* RESTful API Development
 * MVC & Razor Pages
 * Entity Framework Core
 * LINQ
 * ASP.NET Core Identity
 * JWT Authentication
-* RESTful API Development
+* CQRS , MEDIATOR
+* Serilog
+
 
 ### Database
 
@@ -49,7 +29,6 @@ https://github.com/maleky83/Shop-Management-System
 
 * Layered Architecture
 * Dependency Injection
-* DTOs
 * Clean Architecture (Learning)
 * Design Patterns (Learning)
 
@@ -65,17 +44,6 @@ https://github.com/maleky83/Shop-Management-System
 * GitHub
 * Visual Studio
 
----
-
-## Currently Learning
-
-* ASP.NET Core
-* Clean Architecture
-* Design Patterns
-* Backend Development Practices
-
----
-
 ## Resume
 
 📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/maleky83/maleky83/main/mohammadhossein-maleki-resume.pdf)
@@ -84,11 +52,6 @@ https://github.com/maleky83/Shop-Management-System
 
 ## Contact
 
-📧 Email
-[mmmohammmadhosein1383@gmail.com](mailto:mmmohammmadhosein1383@gmail.com)
-
 💼 LinkedIn
 https://www.linkedin.com/in/maleky83/
 
-💻 GitHub
-https://github.com/maleky83
