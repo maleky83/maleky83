@@ -25,24 +25,13 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 
 * SQL Server
 
-### Architecture & Concepts
-
-* Layered Architecture
-* Dependency Injection
-* Clean Architecture (Learning)
-* Design Patterns (Learning)
-
 ### Frontend
 
-* HTML
-* CSS
-* Bootstrap
+* HTML, CSS. Bootstrap
 
 ### Tools
 
-* Git
-* GitHub
-* Visual Studio
+* Git , GitHub
 
 ## Resume
 
