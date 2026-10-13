@@ -1,4 +1,4 @@
-# Hi, I'm MohammadHossein Maleki 👋
+# Hi, I'm MohammadHossein Maleki
 
 ## About Me
 
@@ -19,7 +19,6 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 * CQRS , MEDIATOR
 * Serilog
 
-
 ### Database
 
 * SQL Server
@@ -31,11 +30,3 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 ### Tools
 
 * Git , GitHub
-
----
-
-## Contact
-
-💼 LinkedIn
-https://www.linkedin.com/in/maleky83/
-
