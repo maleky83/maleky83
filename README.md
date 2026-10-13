@@ -16,7 +16,6 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 * Entity Framework Core
 * LINQ
 * ASP.NET Core Identity
-* JWT Authentication
 * CQRS , MEDIATOR
 * Serilog
 
@@ -32,10 +31,6 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 ### Tools
 
 * Git , GitHub
-
-## Resume
-
-📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/maleky83/maleky83/main/mohammadhossein-maleki-resume.pdf)
 
 ---
 
