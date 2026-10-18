@@ -11,8 +11,9 @@ Computer Engineering student | Backend Developer | C# | ASP.NET Core
 * C#
 * ASP.NET Core
 * Web API
-* RESTful API Development
 * MVC & Razor Pages
+* RESTful API Development
+* Clean Architecure
 * Entity Framework Core
 * LINQ
 * ASP.NET Core Identity
