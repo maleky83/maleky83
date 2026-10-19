@@ -1,17 +1,24 @@
 <!DOCTYPE html>
+
 <html lang="fa" dir="rtl">
   <head>
     <meta charset="UTF-8" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <meta
       name="description"
       content="وب‌سایت شخصی محمدحسین ملکی طائمه، توسعه‌دهنده بک‌اند C# و ASP.NET Core"
     />
+
     <title>محمدحسین ملکی طائمه | Backend Developer</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
     <link
       href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
@@ -24,6 +31,7 @@
 
       html {
         scroll-behavior: smooth;
+
         scroll-padding-top: 80px;
       }
 
@@ -33,16 +41,23 @@
 
       .section-title {
         font-size: 1.5rem;
+
         font-weight: 700;
+
         color: #111827;
+
         margin-bottom: 1.25rem;
       }
 
       .skill {
         padding: 6px 11px;
+
         background: #f3f4f6;
+
         color: #374151;
+
         border-radius: 6px;
+
         font-size: 13px;
       }
 
@@ -58,9 +73,11 @@
 
   <body class="bg-white text-gray-800">
     <!-- Header -->
+
     <header class="sticky top-0 z-50 border-b border-gray-200 bg-white">
       <nav
         class="mx-auto flex max-w-5xl items-center justify-between px-5 py-4"
+        \
       >
         <a href="#home" class="text-lg font-extrabold text-gray-900">
           محمدحسین ملکی طائمه
@@ -68,15 +85,20 @@
 
         <div class="hidden gap-5 text-sm text-gray-600 md:flex">
           <a href="#about" class="hover:text-black">درباره من</a>
+
           <a href="#skills" class="hover:text-black">مهارت‌ها</a>
+
           <a href="#projects" class="hover:text-black">پروژه‌ها</a>
+
           <a href="#education" class="hover:text-black">تحصیلات</a>
+
           <a href="#contact" class="hover:text-black">تماس</a>
         </div>
 
         <a
           href="#contact"
           class="rounded-lg bg-gray-900 px-4 py-2 text-sm text-white hover:bg-gray-700"
+          \
         >
           تماس
         </a>
@@ -85,15 +107,18 @@
 
     <main class="mx-auto max-w-5xl px-5">
       <!-- Introduction -->
+
       <section
         id="home"
         class="flex flex-col-reverse items-center gap-8 border-b border-gray-200 py-12 md:flex-row md:justify-between md:py-16"
+        \
       >
         <div class="w-full text-center md:text-right">
           <p class="mb-3 text-sm text-gray-500">توسعه‌دهنده بک‌اند</p>
 
           <h1
             class="text-3xl font-extrabold leading-relaxed text-gray-900 md:text-4xl"
+            \
           >
             محمدحسین ملکی طائمه
           </h1>
@@ -109,28 +134,32 @@
 
           <div
             class="mt-6 flex flex-wrap justify-center gap-3 md:justify-start"
+            \
           >
             <a
               href="#projects"
               class="rounded-lg bg-gray-900 px-5 py-2.5 text-sm font-medium text-white hover:bg-gray-700"
+              \
             >
               مشاهده پروژه‌ها
             </a>
 
             <a
               href="https://github.com/maleky83"
-              target="_blank"
+              target="\_blank"
               rel="noopener noreferrer"
               class="rounded-lg border border-gray-300 px-5 py-2.5 text-sm font-medium text-gray-700 hover:bg-gray-50"
+              \
             >
               GitHub
             </a>
 
             <a
               href="https://www.linkedin.com/in/maleky83"
-              target="_blank"
+              target="\_blank"
               rel="noopener noreferrer"
               class="rounded-lg border border-gray-300 px-5 py-2.5 text-sm font-medium text-gray-700 hover:bg-gray-50"
+              \
             >
               LinkedIn
             </a>
@@ -138,8 +167,10 @@
 
           <div
             class="mt-5 flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm text-gray-500 md:justify-start"
+            \
           >
             <span>ساکن البرز</span>
+
             <span>متولد تهران</span>
           </div>
         </div>
@@ -154,6 +185,7 @@
       </section>
 
       <!-- About -->
+
       <section id="about" class="border-b border-gray-200 py-10">
         <h2 class="section-title">درباره من</h2>
 
@@ -167,34 +199,38 @@
         <div class="mt-5 grid grid-cols-2 gap-4 text-sm sm:grid-cols-4">
           <div>
             <p class="text-gray-500">محل تولد</p>
+
             <p class="mt-1 font-semibold">تهران</p>
           </div>
 
           <div>
             <p class="text-gray-500">محل سکونت</p>
+
             <p class="mt-1 font-semibold">استان البرز</p>
           </div>
 
           <div>
             <p class="text-gray-500">وضعیت تحصیل</p>
+
             <p class="mt-1 font-semibold">در حال تحصیل</p>
           </div>
 
           <div>
             <p class="text-gray-500">نظام وظیفه</p>
+
             <p class="mt-1 font-semibold">معافیت تحصیلی</p>
           </div>
         </div>
       </section>
 
       <!-- Skills -->
+
       <section id="skills" class="border-b border-gray-200 py-10">
         <h2 class="section-title">مهارت‌های فنی</h2>
-
         <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           <div>
             <h3 class="mb-3 text-sm font-bold text-gray-700">
-              برنامه‌نویسی و بک‌اند
+              برنامه‌نویسی و توسعه بک‌اند
             </h3>
             <div class="flex flex-wrap gap-2">
               <span class="skill">C#</span>
@@ -205,50 +241,55 @@
               <span class="skill">Razor Pages</span>
             </div>
           </div>
-
           <div>
-            <h3 class="mb-3 text-sm font-bold text-gray-700">پایگاه داده</h3>
-            <div class="flex flex-wrap gap-2">
-              <span class="skill">SQL Server</span>
-              <span class="skill">Entity Framework Core</span>
-              <span class="skill">LINQ</span>
-            </div>
-          </div>
-
-          <div>
-            <h3 class="mb-3 text-sm font-bold text-gray-700">معماری و طراحی</h3>
+            <h3 class="mb-3 text-sm font-bold text-gray-700">
+              معماری و الگوهای طراحی
+            </h3>
             <div class="flex flex-wrap gap-2">
               <span class="skill">Clean Architecture</span>
               <span class="skill">SOLID</span>
               <span class="skill">Clean Code</span>
               <span class="skill">Repository Pattern</span>
+              <span class="skill">CQRS</span>
+              <span class="skill">MediatR</span>
             </div>
           </div>
-
           <div>
             <h3 class="mb-3 text-sm font-bold text-gray-700">
-              ابزارها و الگوها
+              پایگاه داده و ORM
             </h3>
             <div class="flex flex-wrap gap-2">
-              <span class="skill">CQRS</span>
-              <span class="skill">Mediator</span>
+              <span class="skill">SQL Server</span>
+              <span class="skill">Entity Framework Core</span>
+              <span class="skill">Fluent API</span>
+              <span class="skill">LINQ</span>
+            </div>
+          </div>
+          <div>
+            <h3 class="mb-3 text-sm font-bold text-gray-700">
+              احراز هویت و اعتبارسنجی
+            </h3>
+            <div class="flex flex-wrap gap-2">
+              <span class="skill">ASP.NET Core Identity</span>
+              <span class="skill">Authentication & Authorization</span>
+              <span class="skill">FluentValidation</span>
+              <span class="skill">Error Handling Middleware</span>
+            </div>
+          </div>
+          <div>
+            <h3 class="mb-3 text-sm font-bold text-gray-700">
+              ابزارها و لاگ‌گیری
+            </h3>
+            <div class="flex flex-wrap gap-2">
+              <span class="skill">Dependency Injection</span>
               <span class="skill">AutoMapper</span>
               <span class="skill">Serilog</span>
+              <span class="skill">Swagger</span>
+              <span class="skill">Postman</span>
               <span class="skill">Git</span>
               <span class="skill">GitHub</span>
             </div>
           </div>
-
-          <div>
-            <h3 class="mb-3 text-sm font-bold text-gray-700">
-              امنیت و مدیریت خطا
-            </h3>
-            <div class="flex flex-wrap gap-2">
-              <span class="skill">ASP.NET Core Identity</span>
-              <span class="skill">Error Handling Middleware</span>
-            </div>
-          </div>
-
           <div>
             <h3 class="mb-3 text-sm font-bold text-gray-700">
               فرانت‌اند مقدماتی
@@ -263,9 +304,9 @@
       </section>
 
       <!-- Projects -->
+
       <section id="projects" class="border-b border-gray-200 py-10">
         <h2 class="section-title">پروژه‌ها</h2>
-
         <div class="grid gap-5 md:grid-cols-2">
           <article class="project-card rounded-xl border border-gray-200 p-5">
             <div class="flex items-center justify-between gap-3">
@@ -274,35 +315,48 @@
               </h3>
               <span class="text-xs text-gray-500">1405 – اکنون</span>
             </div>
-
             <p class="mt-3 text-sm leading-7 text-gray-600">
-              توسعه API فروشگاه برای مدیریت محصولات، دسته‌بندی‌ها، سفارش‌ها، سبد
-              خرید و کاربران.
+              توسعه بک‌اند فروشگاه اینترنتی برای مدیریت محصولات، دسته‌بندی‌ها،
+              سبد خرید، سفارش‌ها و کاربران.
             </p>
-
             <ul class="mt-3 space-y-1 text-sm leading-7 text-gray-600">
-              <li>• Clean Architecture و RESTful API</li>
-              <li>• Entity Framework Core و LINQ</li>
-              <li>• CQRS و MediatR</li>
-              <li>• ASP.NET Core Identity، AutoMapper و Serilog</li>
+              <li>• معماری Clean Architecture و طراحی RESTful Web API</li>
+              <li>• جداسازی منطق خواندن و نوشتن با CQRS و MediatR</li>
+              <li>• مدیریت داده با Entity Framework Core و Fluent API</li>
+              <li>• احراز هویت و نقش‌ها با ASP.NET Core Identity</li>
+              <li>
+                • اعتبارسنجی درخواست‌ها، نگاشت داده و ثبت لاگ با
+                FluentValidation، AutoMapper و Serilog
+              </li>
+              <li>• مستندسازی و تست API با Swagger و Postman</li>
             </ul>
-
             <div class="mt-4 flex flex-wrap gap-2">
               <span class="skill">C#</span>
-              <span class="skill">ASP.NET Core</span>
+              <span class="skill">ASP.NET Core 10</span>
               <span class="skill">SQL Server</span>
+              <span class="skill">CQRS</span>
             </div>
-
-            <a
-              href="https://github.com/maleky83/Shop-Management-System"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="mt-5 inline-block text-sm font-semibold text-gray-900 underline underline-offset-4 hover:text-gray-500"
+            <div
+              class="mt-5 flex flex-wrap gap-x-5 gap-y-2 text-sm font-semibold"
             >
-              مشاهده مخزن GitHub
-            </a>
+              <a
+                href="https://shop-web-api.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-gray-900 underline underline-offset-4 hover:text-gray-500"
+              >
+                مشاهده فروشگاه
+              </a>
+              <a
+                href="https://github.com/maleky83/Shop-Management-System"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-gray-900 underline underline-offset-4 hover:text-gray-500"
+              >
+                مخزن GitHub
+              </a>
+            </div>
           </article>
-
           <article class="project-card rounded-xl border border-gray-200 p-5">
             <div class="flex items-center justify-between gap-3">
               <h3 class="text-lg font-bold text-gray-900">
@@ -310,24 +364,26 @@
               </h3>
               <span class="text-xs text-gray-500">1405 – اکنون</span>
             </div>
-
             <p class="mt-3 text-sm leading-7 text-gray-600">
-              توسعه API برای مدیریت رستوران‌ها، غذاها و کاربران.
+              توسعه RESTful API برای مدیریت کاربران، رستوران‌ها و غذاها با
+              ساختار لایه‌ای و کد قابل نگهداری.
             </p>
-
             <ul class="mt-3 space-y-1 text-sm leading-7 text-gray-600">
-              <li>• Clean Architecture و RESTful API</li>
-              <li>• Entity Framework Core و LINQ</li>
-              <li>• CQRS و MediatR</li>
-              <li>• ASP.NET Core Identity، AutoMapper و Serilog</li>
+              <li>• پیاده‌سازی Clean Architecture و الگوی CQRS با MediatR</li>
+              <li>• دسترسی به داده‌ها با Entity Framework Core و Fluent API</li>
+              <li>• احراز هویت و مدیریت نقش‌ها با ASP.NET Core Identity</li>
+              <li>• اعتبارسنجی ورودی‌ها، نگاشت اشیا و ثبت لاگ</li>
+              <li>
+                • آماده‌سازی داده‌های اولیه (Seed Data) و مستندسازی API با
+                Swagger و Postman
+              </li>
             </ul>
-
             <div class="mt-4 flex flex-wrap gap-2">
               <span class="skill">C#</span>
-              <span class="skill">ASP.NET Core</span>
+              <span class="skill">ASP.NET Core 10</span>
+              <span class="skill">Entity Framework Core</span>
               <span class="skill">SQL Server</span>
             </div>
-
             <a
               href="https://github.com/maleky83/RestaurantManagement"
               target="_blank"
@@ -341,9 +397,11 @@
       </section>
 
       <!-- Education and Language -->
+
       <section
         id="education"
         class="grid gap-8 border-b border-gray-200 py-10 sm:grid-cols-2"
+        \
       >
         <div>
           <h2 class="section-title">تحصیلات</h2>
@@ -362,35 +420,42 @@
 
           <div
             class="flex items-center justify-between border-b border-gray-100 py-3"
+            \
           >
             <span class="font-medium">انگلیسی</span>
+
             <span class="text-sm text-gray-500">A2، در حال پیشرفت به B1</span>
           </div>
         </div>
       </section>
 
       <!-- Contact -->
+
       <section id="contact" class="py-10">
         <h2 class="section-title">تماس با من</h2>
 
         <div class="grid gap-4 text-sm sm:grid-cols-2">
           <div>
             <p class="text-gray-500">ایمیل</p>
+
             <a
-              href="mailto:mmmohammmadhosein1383@gmail.com"
+              href="mailto:mmmohammmadhosein1383\@gmail.com"
               class="mt-1 inline-block font-medium text-gray-900 hover:underline"
               dir="ltr"
+              \
             >
-              mmmohammmadhosein1383@gmail.com
+              mmmohammmadhosein1383\@gmail.com
             </a>
           </div>
 
           <div>
             <p class="text-gray-500">شماره تماس</p>
+
             <a
               href="tel:09108577870"
               class="mt-1 inline-block font-medium text-gray-900 hover:underline"
               dir="ltr"
+              \
             >
               09108577870
             </a>
@@ -398,12 +463,14 @@
 
           <div>
             <p class="text-gray-500">GitHub</p>
+
             <a
               href="https://github.com/maleky83"
-              target="_blank"
+              target="\_blank"
               rel="noopener noreferrer"
               class="mt-1 inline-block font-medium text-gray-900 hover:underline"
               dir="ltr"
+              \
             >
               github.com/maleky83
             </a>
@@ -411,12 +478,14 @@
 
           <div>
             <p class="text-gray-500">LinkedIn</p>
+
             <a
               href="https://www.linkedin.com/in/maleky83"
-              target="_blank"
+              target="\_blank"
               rel="noopener noreferrer"
               class="mt-1 inline-block font-medium text-gray-900 hover:underline"
               dir="ltr"
+              \
             >
               linkedin.com/in/maleky83
             </a>
@@ -426,11 +495,15 @@
     </main>
 
     <!-- Footer -->
+
     <footer
       class="border-t border-gray-200 px-5 py-5 text-center text-xs text-gray-500"
+      \
     >
       محمدحسین ملکی طائمه
+
       <span class="mx-1">·</span>
+
       <span id="year"></span>
     </footer>
 
